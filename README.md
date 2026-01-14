@@ -1,2 +1,2 @@
-# snak_game
+# snake_game
 For practice of my html &amp; css
